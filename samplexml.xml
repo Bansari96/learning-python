@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+  <firstname>Bansari</firstname>
+  <lastname>Patel</lastname>
+  <home>Toronto</home>
+  <skill name="Java"/>
+  <skill name="JavaScript"/>
+  <skill name="ASP.NET"/>
+  <skill name="HTML"/>
+</person>
